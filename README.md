@@ -1,9 +1,17 @@
 <h1 align="center">Hi, I'm İbrahim ÖNGÖREN 👋</h1>
+
 <p align="center">
-  💼 Economist | 📊 Data Analyst | 🔍 Financial Analyst <br>
-  <a href="https://www.linkedin.com/in/ibrahimongoren">LinkedIn</a> • 
-  <a href="https://github.com/ibrahimongoren">GitHub</a> • 
-  <a href="https://www.kaggle.com/ibrahimongoren">Kaggle</a>
+  <a href="https://www.linkedin.com/in/ibrahimongoren">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ibrahimongoren">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/ibrahimongoren">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="30" />
+  </a>
 </p>
 
 ---
@@ -31,3 +39,5 @@ I hold a B.A. in Economics (English) from Pamukkale University. Throughout my ac
 Explore my [Kaggle notebooks](https://www.kaggle.com/ibrahimongoren) on stock forecasting, macroeconomic indicators, and quantitative finance.
 
 ---
+
+> *“Turning economic theory into data-driven insight.”*
