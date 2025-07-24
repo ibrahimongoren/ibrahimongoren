@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm İbrahim ÖNGÖREN 👋</h1>
 <p align="center">
-  💼 Economist | 📊 Data Scientist | 🔍 Financial Analyst <br>
+  💼 Economist | 📊 Data Analyst | 🔍 Financial Analyst <br>
   <a href="https://www.linkedin.com/in/ibrahimongoren">LinkedIn</a> • 
   <a href="https://github.com/ibrahimongoren">GitHub</a> • 
   <a href="https://www.kaggle.com/ibrahimongoren">Kaggle</a>
