@@ -9,7 +9,7 @@
 ---
 
 🎓 **Education & Background**  
-I hold a B.A. in Economics (English) from Pamukkale University. Throughout my academic journey, I've focused on macroeconomics, financial analysis, and econometrics while gaining hands-on experience in Python, SQL, and Power BI.
+I hold a B.A. in Economics (English) from Pamukkale University. Throughout my academic journey, I've focused on macroeconomics, financial analysis, and econometrics while gaining hands-on experience in Python, R, SQL, and Power BI.
 
 📊 **Fields of Interest**  
 - Econometrics & Applied Economics  
